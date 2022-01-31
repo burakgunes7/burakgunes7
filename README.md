@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Laravel** and **React**
 
-- 🌱 I’m currently learning **PHP, Laravel, React, MySQL**
+- 🌱 I’m currently learning **Laravel, React, MySQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/burakgunes7/**
 
