@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burakgunes7" alt="burakgunes7" /></a> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **Kubernetes**
 
 - 🌱 I’m currently learning **Docker, Linux**
 
