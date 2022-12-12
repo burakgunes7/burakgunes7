@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **Docker, Linux**
+- 🌱 I’m currently learning **Kubernetes, Docker, Linux**
 
 - 📫 How to reach me **https://www.linkedin.com/in/burakgunes7/**
 
